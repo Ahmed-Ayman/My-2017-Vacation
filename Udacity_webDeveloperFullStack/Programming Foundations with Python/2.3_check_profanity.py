@@ -2,6 +2,7 @@
 this program checks out a text file and tells you if it has curse words or not.
 '''
 def read_text():
+    # text file to be checked
     f= open('/home/ahmed-ayman/Workspace/2017_materials/Full_stack/movie_quotes.txt')
     content = f.read()
     print(check_profanity(content))
