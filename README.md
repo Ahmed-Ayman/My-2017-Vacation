@@ -7,5 +7,5 @@ my achievments so far ..
 
 * Udacity's Full stack (started on 1-June-2017).
 
-  1.  finished the Python foundations course on 4-June.
-  2. 
+  1.  finished the [python foundation course ](https://classroom.udacity.com/courses/ud036) on ( 4-June).
+  2.
