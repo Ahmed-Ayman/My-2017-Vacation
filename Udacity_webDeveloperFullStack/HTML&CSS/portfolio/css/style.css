@@ -1,0 +1,20 @@
+.container{
+  margin-top: 20px;
+
+  font-family: 'Lato', sans-serif;
+
+}
+#logo{
+  border: 5px solid #02b3e4;
+  border-radius: 45%;
+}
+.text-muted{
+  font-weight: 100px;
+}
+.footer{
+  margin-top: 20px;
+  padding: 20px;
+  background: black;
+  color: white;
+  text-align: center;
+}
