@@ -364,3 +364,25 @@ footer a {
   text-decoration: none;
   color: #333;
 }
+
+/*
+making the break points
+*/
+.content{
+  display: flex;;
+  flex-wrap: wrap;
+}
+@media screen and (min-width:750px) {
+.hero{
+  width: 75%;
+  order: -2;
+}
+.weather{
+  width: 25%;
+  order:-1;
+}
+.scores,.top-news{
+  width: 50%;
+}
+
+}

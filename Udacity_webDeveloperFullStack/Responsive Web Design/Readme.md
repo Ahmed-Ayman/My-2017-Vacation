@@ -31,4 +31,6 @@ and @import but we won't use it for performance matters.
 * Images take 65% of every website.
 * 45 - 90 chars per line.
 
-[summary](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns#off_canvas)
+[summary of the patterns](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns#off_canvas)
+
+and I have created my first responsive web app using the Flex tool.
