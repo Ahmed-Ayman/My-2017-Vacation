@@ -1,0 +1,22 @@
+header{
+  background: #04ca9c;
+  padding: 20px;
+}
+li,li a{
+  list-style-type: none;
+  display: inline;
+  margin: 10px;
+  color: white;
+}
+ul{
+  padding-top: 15px;
+}
+li a:hover{
+  color:yellow;
+  text-decoration: none;
+  background:
+}
+#logo{
+  color:yellow;
+  font-family:
+}
