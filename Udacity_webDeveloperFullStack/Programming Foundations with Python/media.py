@@ -1,6 +1,6 @@
 import webbrowser
 class Movie ():
-    '''those are documentation to my class ,,it will be saved in the ___doc__ varialbe
+    '''this is a documentation to my class ,,it will be saved in the __doc__ varialbe
         you can check them by printing .. media.Movie.__doc__
     '''
     # here I could create a class varialbe -> associated with all variables
