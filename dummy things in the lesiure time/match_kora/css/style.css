@@ -1,0 +1,67 @@
+#title{
+  padding: 20px;
+  background: orange;
+  border-radius: 20%;
+  text-align: center;
+}
+#title:hover{
+  color: white;
+}
+.social li {
+  list-style-type: none;
+  display: inline;
+
+}
+#today{
+  padding: 10px;
+  background: orange;
+
+}
+.header{
+  background: black;
+}
+.ad{
+  padding: 10px;
+  margin-top: 20px;
+  background: transperant;
+  color: white;
+}
+.navigator{
+padding: 10px;
+  border: 5px solid white;
+}
+.navigator li{
+  color: white;
+  list-style-type: none;
+display: inline;;
+margin: 10px;
+}
+
+.today{
+  background: white;
+  color: black;
+
+    height: 500px;
+}
+
+#image{
+  width: 100%
+}
+.question{
+  background: white;
+  height: 400px;
+  padding: 10px;
+}
+footer{
+  box-shadow: 0px 0px 1px 1px;
+    margin-top: 10px;
+    padding: 20px 0;
+    background-color: orange;
+    text-align: center;
+    color: white;
+
+}
+
+hr{
+  border: 10px solid black;
+}
