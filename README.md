@@ -13,8 +13,8 @@ my achievments so far ..
   4. finished the intro to Js course
   5. finished the intro to Jquery course
   6. finished the JS essential training by Lynda 20 (june).
-  7. finished a prortfolio [project](https://github.com/Ahmed-Ayman/Vacation2017-/tree/master/ahmed_ayman) using Html , CSS & Jquery.
-
+  7. finished a prortfolio [project](ahmed-ayman.github.io) using Html , CSS,Bootstrap & Jquery.
+  
 * Data science and reading :-
   1. finished reading this article (intro to Deep learning).
   2. started reading lessons for young economist. (15 june).
