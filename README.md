@@ -26,9 +26,10 @@ my achievments so far ..
 you could do so by checking out my projects and tell me if there were any sorta bugs or best practices,
 also some Stars would be very motivating and very appreciated : )
 <hr>
+
 # Web Full stack (started on 1-June-2017).
 
-## what I have Completed in the Udacity nano degree.
+## -  what I have Completed in the Udacity nano degree.
   1.  finished the [python foundation course ](https://github.com/Ahmed-Ayman/Vacation2017-/tree/master/Udacity_webDeveloperFullStack/Programming%20Foundations%20with%20Python) on ( 4-June).
   2.  finished the [intro to Html & Css course](https://github.com/Ahmed-Ayman/Vacation2017-/tree/master/Udacity_webDeveloperFullStack/HTML%26CSS) on ( 6-June).
   3. finished responsive web design course (11-June)
@@ -40,16 +41,18 @@ Starting from today I will be writing in the wiki.
 
 <hr>
 
-## Completed in Free Code Camp.
+## - Completed in Free Code Camp.
 
   1. HTML & CSS  & Bootstrap review since I have already done it in the last year (June).
   2. Jquery Review (28 June).
 
-## reading (I'm interested in languages [Indonesian and Korean], Data science and Economics):-
+<hr>
+
+## - reading (I'm interested in languages [Indonesian and Korean], Data science and Economics):-
 
   1. finished reading this article (intro to Deep learning).
   2. started reading lessons for young economist. (15 june).
 
-# other achievments.
+# - other achievments.
 
 1. [Android Weather app](https://github.com/Ahmed-Ayman/cookpad_project) as a test for an internship by Cookpad inc, (25-26 June).
