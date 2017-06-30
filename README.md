@@ -21,7 +21,7 @@ this sort of recording is really helpful for me to keep on track and hopefully
 my notes would help somebody
 my achievments so far ..
 
-## How can support you ?
+## How can you support me ?
 
 you could do so by checking out my projects and tell me if there were any sorta bugs or best practices,
 also some Stars would be very motivating and very appreciated : )
