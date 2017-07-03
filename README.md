@@ -21,7 +21,7 @@ this sort of recording is really helpful for me to keep on track and hopefully
 my notes would help somebody
 my achievments so far ..
 
-## How can you support me ?
+## How can support you ?
 
 you could do so by checking out my projects and tell me if there were any sorta bugs or best practices,
 also some Stars would be very motivating and very appreciated : )
@@ -44,7 +44,7 @@ Starting from today I will be writing in the wiki.
 ## - Completed in Free Code Camp.
 
   1. HTML & CSS  & Bootstrap review since I have already done it in the last year (June).
-  2. Jquery Review (28 June).
+  2. Jquery Review and the [prortfolio](https://ahmed-ayman.github.io/)(28 June).
   3. JavaScript (29 June)
   4. OOP JS (1/7)
   5. Basic Algorithm and JSON. (2/7)
