@@ -45,6 +45,11 @@ Starting from today I will be writing in the wiki.
 
   1. HTML & CSS  & Bootstrap review since I have already done it in the last year (June).
   2. Jquery Review (28 June).
+  3. JavaScript (29 June)
+  4. OOP JS (1/7)
+  5. Basic Algorithm and JSON. (2/7)
+  6. the first intermediate project ->[ Quotes generator](https://ahmed-ayman.github.io/QuoteGenerator/) (3/7)
+
 
 <hr>
 

@@ -1,0 +1,102 @@
+body{
+  background: beige;
+}
+header ul li{
+   display: inline;
+  font-size:20px;
+  margin:0px 10px;
+}
+header ul{
+  margin-top:20px;
+}
+header ul a{
+  color :gray;
+}
+header ul a:hover{
+  color :brown;
+}
+#logo{
+  font-family: 'Pacifico', cursive;
+  color:brown;
+  padding:10px;
+}
+hr.star-bright{
+  margin-top:40px;
+  margin-bottom:60px;
+  padding: 0;
+  max-width: 512px;
+  border: 0;
+  border-top: solid 5px;
+  text-align: center;
+}
+
+hr.star-bright:after {
+  content: '\f121';
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
+  top: -.8em;
+  padding: 0 .25em;
+  font-size: 2em;
+}
+hr.star-bright {
+  border-color: gray;
+  font-size:15px;
+}
+hr.star-bright:after {
+  color: brown;
+  background-color: Beige;
+}
+
+#quote_box{
+
+font-family:'Dosis';
+  padding :20px;
+  background: brown;
+  color: white;
+  border-radius:10px;box-shadow: 1px 13px 74px 0px rgba(0,0,0,0.75);
+
+}
+#quote{
+  margin-left:10px;
+}
+#title{
+  margin-right:40px;
+  color:white;
+
+  font-weight:bold;
+}
+#title:hover{
+  color:gray;
+}
+
+
+.nextButton{
+  font-family: 'Dosis', sans-serif;
+
+  width: 100%;
+  color:white;
+  background:brown;
+  margin-top:30px;
+  font-size:300px;
+  box-shadow: 5px 5px 5px 0px rgba(51,122,180,1);
+}
+.nextButton:hover{
+  background:gray;
+  color:white;
+}
+footer{
+  border-top: 3px inset gray;
+  box-shadow: 10px 13px 74px 0px rgba(0,0,0,0.75);
+  font-family: 'Dosis', sans-serif;
+    color:white;
+    background-color: brown;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    overflow:hidden;
+}
+footer h3:hover{
+  color:gray;
+}
