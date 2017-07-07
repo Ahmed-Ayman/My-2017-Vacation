@@ -1,0 +1,145 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dosis|Pacifico');
+header{
+  background:rgba(255, 204,100,.5);
+  padding:20px 0px;
+}
+body{
+  font-family:Dosis;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+#weather_card {
+    -vendor-animation-duration: 3s;
+  color:black;
+  border-radius:20px;
+  padding:40px;
+  margin-top:20px;
+box-shadow: 10px 10px 67px 2px rgba(0,0,0,0.75);
+
+}
+h1,h3{
+    font-weight:bold;
+}
+#header{
+  margin-top:40px;
+  font-family:Pacifico;
+  color:white;
+  font-weight:normal;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+
+#change_temp , #change_tempC{
+  color:white;
+  font-weight:bold;
+  font-size:30px;
+  margin-top:10px;
+  margin-bottom:10px;
+  box-shadow: 5px 5px 5px 1px   rgba(0,0,0,0.75);
+}
+
+footer,footer ul li{
+  font-family:pacifico;
+  color:white;
+   display: inline;
+  font-size:30px;
+  margin:20px;
+}
+footer h2{
+      text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+footer ul a{
+  color :white;
+}
+footer ul a:hover{
+  color :orange;
+  font-size:50px;
+      text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+/*the search*/
+header ul{
+width:100%;
+}
+header ul:hover{
+    background:white;
+}
+#search {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+
+    -webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+
+    -webkit-transform: translate(0px, -100%) scale(0, 0);
+	-moz-transform: translate(0px, -100%) scale(0, 0);
+	-o-transform: translate(0px, -100%) scale(0, 0);
+	-ms-transform: translate(0px, -100%) scale(0, 0);
+	transform: translate(0px, -100%) scale(0, 0);
+
+    opacity: 0;
+}
+
+#search.open {
+    -webkit-transform: translate(0px, 0px) scale(1, 1);
+    -moz-transform: translate(0px, 0px) scale(1, 1);
+	-o-transform: translate(0px, 0px) scale(1, 1);
+	-ms-transform: translate(0px, 0px) scale(1, 1);
+	transform: translate(0px, 0px) scale(1, 1);
+    opacity: 1;
+}
+
+#search input[type="search"] {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background: rgba(0, 0, 0, 0);
+    font-size: 60px;
+    font-weight: 300;
+    text-align: center;
+    border: 0px;
+    margin: 0px auto;
+    margin-top: -51px;
+    padding-left: 30px;
+    padding-right: 30px;
+    outline: none;
+}
+#search .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 61px;
+    margin-left: -45px;
+}
+#search .close {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    color: #fff;
+	background-color: #428bca;
+	border-color: #357ebd;
+	opacity: 1;
+	padding: 10px 17px;
+	font-size: 27px;
+}
