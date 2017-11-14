@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercises_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercises_main.iml" group="Exercises" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercises_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercises_test.iml" group="Exercises" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lynda.iml" filepath="$PROJECT_DIR$/.idea/modules/Lynda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lynda_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lynda_main.iml" group="Lynda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lynda_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lynda_test.iml" group="Lynda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Solutions.iml" filepath="$PROJECT_DIR$/.idea/modules/Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Solutions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Solutions_main.iml" group="Solutions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Solutions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Solutions_test.iml" group="Solutions" />
+    </modules>
+  </component>
+</project>

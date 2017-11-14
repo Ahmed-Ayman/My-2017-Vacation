@@ -1,0 +1,37 @@
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+
+<VBox fx:id="vbox" layoutX="10.0" layoutY="10.0" prefHeight="250.0" prefWidth="300.0" spacing="10" 
+      xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8"
+      fx:controller="valueofexample.FXMLDocumentController">
+     <Label text="Types of Vehicles"/>
+     <ComboBox>
+    <items>
+         <FXCollections fx:factory="observableArrayList">
+            <String fx:value="Mustang"/>
+            <String fx:value="Hummer"/>
+            <String fx:value="Jeep Cherokee"/>
+            <String fx:value="Jeep Wrangler"/>
+            <String fx:value="Subaru Forrester"/>
+            <String fx:value="Toyota Prius"/>
+          
+            </FXCollections>
+    </items>
+     <value>
+     <String fx:value="Mustang"/>
+     </value>
+   </ComboBox>
+   <style>
+	-fx-padding: 10;
+	-fx-border-style: solid inside;
+	-fx-border-width: 2;
+	-fx-border-insets: 5;
+	-fx-border-radius: 5;
+	-fx-border-color: orange;
+  </style>
+</VBox>
+

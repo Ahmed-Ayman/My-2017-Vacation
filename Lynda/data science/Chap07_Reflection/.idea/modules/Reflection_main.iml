@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Reflection:main" external.linked.project.path="$MODULE_DIR$/../../Reflection" external.root.project.path="$MODULE_DIR$/../../Reflection" external.system.id="GRADLE" external.system.module.group="Reflection" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../Reflection/build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Reflection/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../Reflection/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Reflection/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons-lang3-3.4" level="project" />
+  </component>
+</module>

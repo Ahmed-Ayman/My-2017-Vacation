@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="CENTER" hgap="10" prefHeight="240.0" prefWidth="311.0" style="-fx-vgap: 10; -fx-hgap: 10;" vgap="10" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Label prefHeight="40.0" prefWidth="324.0" text="Lets think about some question and ask me!?" textAlignment="CENTER" textFill="#d02222">
+         <font>
+            <Font size="12.0" />
+         </font></Label>
+      <JFXButton fx:id="ask_me" alignment="CENTER" buttonType="RAISED" onAction="#askMeClickListener" prefHeight="26.0" prefWidth="310.0" style="-fx-background-color: #123311;" text="AskMe" textAlignment="CENTER" textFill="#00c77f" GridPane.rowIndex="4" />
+      <Label fx:id="message" textFill="#40e137" GridPane.rowIndex="1" GridPane.rowSpan="2" />
+   </children>
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+   </rowConstraints>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+</GridPane>

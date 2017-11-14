@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 15, 2016, 2:09:56 PM
+    Author     : Peggy Fisher 
+*/
+
+.button{
+    -fx-text-fill:white;
+    -fx-font-family:"Arial Narrow";
+    -fx-font-weight:bold;
+    -fx-background-color:linear-gradient(#61a2b1,#2A5058);
+    -fx-background-radius: 5;
+}
+#center {
+    -fx-background-color: #2f4f4f;
+    -fx-fill:  tan;
+    -fx-alighment: center;
+}
+.button, #center {
+    -fx-font:24px "Verdana";
+}

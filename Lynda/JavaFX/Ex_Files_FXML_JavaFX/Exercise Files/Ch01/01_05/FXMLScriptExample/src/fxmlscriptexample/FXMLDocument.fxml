@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?language JavaScript?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" 
+            xmlns:fx="http://javafx.com/fxml/1" 
+            fx:controller="fxmlscriptexample.FXMLDocumentController">
+    <children>
+        <Button layoutX="50" layoutY="60" text="Click Me!" 
+                onAction="handleButtonAction();" fx:id="button" />
+        <Label layoutX="80" layoutY="120" minHeight="16" 
+               minWidth="69" fx:id="label" />   
+ 
+    </children>
+    <fx:script> function handleButtonAction() {
+        label.setText("I was created by Javascript :-)");
+        }
+    </fx:script>
+</AnchorPane>

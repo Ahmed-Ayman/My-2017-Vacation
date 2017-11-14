@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" fx:controller="challenge_01_06.FXMLDocumentController">
+    <children>
+        <Button layoutX="126" layoutY="120" text="Click Me!" onAction="#handleButtonAction" fx:id="button" />
+        <Label layoutX="126" layoutY="170" minHeight="16" minWidth="69" fx:id="label" />
+        <VBox spacing="10" layoutX="20" layoutY="20"  >
+            <VBox spacing="10"  >
+    <fx:define>
+        <ToggleGroup fx:id="tgroup"/>
+    </fx:define>
+    <children>
+        <Label layoutX= "10" layoutY="20" text="Choose the time, then click the button:" /> 
+        <RadioButton fx:id="morning" text="12 AM - 10 AM" toggleGroup="$tgroup"/>
+        <RadioButton fx:id="afternoon" text="10 AM - 3 PM" toggleGroup="$tgroup"/>
+        <RadioButton fx:id="evening" text="3 PM - Midnight" toggleGroup="$tgroup"/>
+    </children>
+</VBox>
+            
+           
+      
+        </VBox>
+    </children>
+</AnchorPane>

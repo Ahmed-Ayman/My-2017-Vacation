@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Exercises" external.linked.project.path="$MODULE_DIR$/../../Exercises" external.root.project.path="$MODULE_DIR$/../../Exercises" external.system.id="GRADLE" external.system.module.group="Exercises" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Exercises">
+      <excludeFolder url="file://$MODULE_DIR$/../../Exercises/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Exercises/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
